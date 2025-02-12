@@ -1,2 +1,1 @@
-services:
-  webui:
+name: webui-docker
